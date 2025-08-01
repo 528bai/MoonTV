@@ -1,6 +1,6 @@
 {
   "cache_time": 7200,
-  "api_site": {
+  "api_site": [
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂",
@@ -145,7 +145,7 @@
       "api": "https://gayapi.com/api.php/provide/vod",
       "name": "快播资源"
     }
-  }
+  ],
   "custom_category": [
     {
       "name": "华语",
