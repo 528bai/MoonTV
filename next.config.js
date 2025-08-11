@@ -9,6 +9,12 @@ const nextConfig = {
   reactStrictMode: false,
   swcMinify: true,
 
+  experimental: {
+    // 启用 Next.js 的静态独立模式，有助于减小体积
+    appDir: true,
+    serverComponentsExternalPackages: ['hls.js', 'artplayer'], // 将大型依赖标记为外部包
+  },  
+  
   // Uncoment to add domain whitelist
   images: {
     unoptimized: true,
