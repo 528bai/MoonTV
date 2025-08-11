@@ -124,10 +124,6 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
-    },
     "hwba": {
       "api": "https://cjhwba.com/api.php/provide/vod",
       "name": "华为吧"
@@ -150,30 +146,150 @@
       "name": "百度云",
       "detail": "https://bdzy.tv/"
     },
+    "laosebizy": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "老司机"
+    },
+    "155": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155"
+    },
+    "senlin": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林"
+    },
+    "semao": {
+      "api": "https://caiji.semaozy.net/inc/api.php/provide/vod",
+      "name": "色猫"
+    },
+    "meishaonv": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "美少女"
+    },
+    "yinshuiji": {
+      "api": "https://www.xrbsp.com/api/json.php",
+      "name": "淫水机"
+    },
+    "xiangnaier": {
+      "api": "https://www.gdlsp.com/api/json.php",
+      "name": "香奶儿"
+    },
+    "baipiao": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "白嫖"
+    },
+    "xiaoshimei": {
+      "api": "https://www.afasu.com/api/json.php",
+      "name": "小湿妹"
+    },
+    "huangav": {
+      "api": "https://www.pgxdy.com/api/json.php",
+      "name": "黄AV"
+    },
+    "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼"
+    },
+    "ikun": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "爱坤"
+    },
+    "baiwan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万"
+    },
+    "naixiangxiang": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香香"
+    },
+    "jingpin": {
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "name": "精品"
+    },
+    "aosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡"
+    },
+    "lajiao": {
+      "api": "http://apilj.com/api.php/provide/vod",
+      "name": "辣椒"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔"
+    },
+    "didi": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "name": "滴滴"
+    },
+    "huanggua": {
+      "api": "https://www.avre06.com/api.php/Prodao/vod",
+      "name": "黄瓜"
+    },
+    "siwa": {
+      "api": "https://siwazyw.tv/api.php/provide/vod",
+      "name": "丝袜"
+    },
+    "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子"
+    },
+    "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "JKUN"
+    },
+    "kuaibo": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播"
+    },
+    "dadi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地"
+    },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CK资源",
       "detail": "https://www.ckzy1.com"
     },
-    "jkun": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "name": "jkun资源"
+    "fanhao": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
     },
-    "huangcang": {
+    "laosebi": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "老色逼"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "name": "草榴"
+    },
+    "xibaowang": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞网"
+    },
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸟"
+    },
+    "hsckzy888": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄仓888"
+    },
+    "hsckzy": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
-      "name": "颜色仓库"
+      "name": "黄仓VIP"
     },
-    "yutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "玉兔资源"
+    "soav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV"
+    },
+    "lsb": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "lsb资源"
     },
     "dnz": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "danz"
-    },
-    "xiaoji": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸟资源"
     },
     "xxibao": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
@@ -182,14 +298,6 @@
     "fanqie": {
       "api": "https://fqzy.me//api.php/provide/vod",
       "name": "番茄资源"
-    },
-    "siwa": {
-      "api": "https://siwazyw.tv/api.php/provide/vod",
-      "name": "丝袜资源"
-    },
-    "155": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "155资源"
     },
     "naixx": {
       "api": "https://naixxzy.com/api.php/provide/vod",
@@ -204,10 +312,6 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "name": "快车资源",
       "detail": "https://www.kuaichezy.com/"
-    },
-    "kuaibo": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "快播资源"
     }
   },
   "custom_category": [
@@ -232,112 +336,112 @@
       "query": "韩国"
     },
     {
-      "name": "",
+      "name": "动作",
       "type": "movie",
       "query": "动作"
     },
     {
-      "name": "",
+      "name": "喜剧",
       "type": "movie",
       "query": "喜剧"
     },
     {
-      "name": "",
+      "name": "科幻",
       "type": "movie",
       "query": "科幻"
     },
     {
-      "name": "",
-      "type": "movie",
-      "query": "悬疑"
-    },
-    {
-      "name": "",
-      "type": "movie",
-      "query": "恐怖"
-    },
-    {
-      "name": "",
-      "type": "movie",
-      "query": "热门"
-    },
-    {
-      "name": "",
-      "type": "movie",
-      "query": "最新"
-    },
-    {
-      "name": "",
-      "type": "movie",
-      "query": "经典"
-    },
-    {
-      "name": "",
-      "type": "movie",
-      "query": "豆瓣高分"
-    },
-    {
-      "name": "",
+      "name": "推理",
       "type": "movie",
       "query": "推理"
     },
     {
-      "name": "",
+      "name": "悬疑",
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "name": "恐怖",
+      "type": "movie",
+      "query": "恐怖"
+    },
+    {
+      "name": "热门",
+      "type": "movie",
+      "query": "热门"
+    },
+    {
+      "name": "最新",
+      "type": "movie",
+      "query": "最新"
+    },
+    {
+      "name": "经典",
+      "type": "movie",
+      "query": "经典"
+    },
+    {
+      "name": "豆瓣",
+      "type": "movie",
+      "query": "豆瓣高分"
+    },
+    {
+      "name": "热门",
       "type": "tv",
       "query": "热门"
     },
     {
-      "name": "",
+      "name": "美剧",
       "type": "tv",
       "query": "美剧"
     },
     {
-      "name": "",
+      "name": "英剧",
       "type": "tv",
       "query": "英剧"
     },
     {
-      "name": "",
+      "name": "日剧",
       "type": "tv",
       "query": "日剧"
     },
     {
-      "name": "",
+      "name": "韩剧",
       "type": "tv",
       "query": "韩剧"
     },
     {
-      "name": "",
+      "name": "国剧",
       "type": "tv",
       "query": "国产剧"
     },
     {
-      "name": "",
+      "name": "港剧",
       "type": "tv",
       "query": "港剧"
     },
     {
-      "name": "",
+      "name": "日漫",
       "type": "tv",
       "query": "日本动画"
     },
     {
-      "name": "",
+      "name": "国漫",
       "type": "tv",
-      "query": "国漫"
+      "query": "国产动画"
     },
     {
-      "name": "",
+      "name": "综艺",
       "type": "tv",
       "query": "综艺"
     },
     {
-      "name": "",
+      "name": "体育",
       "type": "tv",
       "query": "体育"
     },
     {
-      "name": "",
+      "name": "纪录",
       "type": "tv",
       "query": "纪录片"
     }
